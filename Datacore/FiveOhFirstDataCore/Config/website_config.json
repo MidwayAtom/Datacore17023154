@@ -1,0 +1,19 @@
+{
+    "ConnectionStrings": {
+      "database": "Host=localhost;Port=5432;Username=postgres;Password=1234;Database=Development;",
+    },
+    "Email": {
+      "Client": "localhost",
+      "Port": 587,
+      "User": "no-reply@MailServer",
+      "RequireLogin": true,
+      "Password": "1234",
+      "Email": "no-reply@my-host.com"
+    },
+    "Discord": {
+      "ClientId": "798907787660755044",
+      "HomeGuild": 1020354712136073226,
+      "ClientSecret": "SodJ9ZKgAekRnY9Sjn8Hoj7h2P75px8u",
+      "Token": "Nzk4OTA3Nzg3NjYwNzU1MDQ0.G5cepq.He8AP9-CULgCn1zxAfUSCRXi7zTA6BPWyasVAE"
+    }
+  }

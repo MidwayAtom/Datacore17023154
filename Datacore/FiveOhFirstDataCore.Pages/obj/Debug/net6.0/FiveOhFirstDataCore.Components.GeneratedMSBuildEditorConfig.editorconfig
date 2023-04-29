@@ -1,0 +1,284 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows,browser
+build_property.RootNamespace = FiveOhFirstDataCore.Components
+build_property.RootNamespace = FiveOhFirstDataCore.Components
+build_property.ProjectDir = e:\Development\FiveOhFirstDataCore\FiveOhFirstDataCore.Pages\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = e:\Development\FiveOhFirstDataCore\FiveOhFirstDataCore.Pages
+build_property._RazorSourceGeneratorDebug = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Data/Auth/DynamicAuthorizeView.razor]
+build_metadata.AdditionalFiles.TargetPath = RGF0YVxBdXRoXER5bmFtaWNBdXRob3JpemVWaWV3LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Data/Auth/DynamicPolicyEditor.razor]
+build_metadata.AdditionalFiles.TargetPath = RGF0YVxBdXRoXER5bmFtaWNQb2xpY3lFZGl0b3IucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Data/Auth/DynamicPolicySectionEditor.razor]
+build_metadata.AdditionalFiles.TargetPath = RGF0YVxBdXRoXER5bmFtaWNQb2xpY3lTZWN0aW9uRWRpdG9yLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Data/Auth/WebsitePolicyView.razor]
+build_metadata.AdditionalFiles.TargetPath = RGF0YVxBdXRoXFdlYnNpdGVQb2xpY3lWaWV3LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Data/Auth/WebsiteSectionView.razor]
+build_metadata.AdditionalFiles.TargetPath = RGF0YVxBdXRoXFdlYnNpdGVTZWN0aW9uVmlldy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Data/Import/QualificationImportDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = RGF0YVxJbXBvcnRcUXVhbGlmaWNhdGlvbkltcG9ydERpc3BsYXkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Data/Import/RosterDataImportDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = RGF0YVxJbXBvcnRcUm9zdGVyRGF0YUltcG9ydERpc3BsYXkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Data/Import/SupportingElementsImportDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = RGF0YVxJbXBvcnRcU3VwcG9ydGluZ0VsZW1lbnRzSW1wb3J0RGlzcGxheS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Data/Logging/UpdateDisplayTable.razor]
+build_metadata.AdditionalFiles.TargetPath = RGF0YVxMb2dnaW5nXFVwZGF0ZURpc3BsYXlUYWJsZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Data/Settings/CShopClaimDataDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = RGF0YVxTZXR0aW5nc1xDU2hvcENsYWltRGF0YURpc3BsYXkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Data/Settings/CShopClaimSettingDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = RGF0YVxTZXR0aW5nc1xDU2hvcENsYWltU2V0dGluZ0Rpc3BsYXkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Data/Settings/InputRequiredBilletSelector.razor]
+build_metadata.AdditionalFiles.TargetPath = RGF0YVxTZXR0aW5nc1xJbnB1dFJlcXVpcmVkQmlsbGV0U2VsZWN0b3IucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Data/Settings/PromotionRequirementDataDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = RGF0YVxTZXR0aW5nc1xQcm9tb3Rpb25SZXF1aXJlbWVudERhdGFEaXNwbGF5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Data/Settings/PromotionRequirementSettingDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = RGF0YVxTZXR0aW5nc1xQcm9tb3Rpb25SZXF1aXJlbWVudFNldHRpbmdEaXNwbGF5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Data/Settings/RoleBindingSettingDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = RGF0YVxTZXR0aW5nc1xSb2xlQmluZGluZ1NldHRpbmdEaXNwbGF5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Message/TrooperMessageBoard.razor]
+build_metadata.AdditionalFiles.TargetPath = TWVzc2FnZVxUcm9vcGVyTWVzc2FnZUJvYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Misc/BreadcrumbsList.razor]
+build_metadata.AdditionalFiles.TargetPath = TWlzY1xCcmVhZGNydW1ic0xpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Misc/ChangeRequestData.razor]
+build_metadata.AdditionalFiles.TargetPath = TWlzY1xDaGFuZ2VSZXF1ZXN0RGF0YS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Misc/InputRichText.razor]
+build_metadata.AdditionalFiles.TargetPath = TWlzY1xJbnB1dFJpY2hUZXh0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Misc/NotAuthorizedMessage.razor]
+build_metadata.AdditionalFiles.TargetPath = TWlzY1xOb3RBdXRob3JpemVkTWVzc2FnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Misc/PaginationController.razor]
+build_metadata.AdditionalFiles.TargetPath = TWlzY1xQYWdpbmF0aW9uQ29udHJvbGxlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Misc/RankDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = TWlzY1xSYW5rRGlzcGxheS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Misc/StaticDiscordChannelInput.razor]
+build_metadata.AdditionalFiles.TargetPath = TWlzY1xTdGF0aWNEaXNjb3JkQ2hhbm5lbElucHV0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Misc/StaticDiscordRoleInputList.razor]
+build_metadata.AdditionalFiles.TargetPath = TWlzY1xTdGF0aWNEaXNjb3JkUm9sZUlucHV0TGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Misc/StaticIntegerInputList.razor]
+build_metadata.AdditionalFiles.TargetPath = TWlzY1xTdGF0aWNJbnRlZ2VySW5wdXRMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Notice/NoticeBoard.razor]
+build_metadata.AdditionalFiles.TargetPath = Tm90aWNlXE5vdGljZUJvYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Promotions/BattallionPromotionBoard.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJvbW90aW9uc1xCYXR0YWxsaW9uUHJvbW90aW9uQm9hcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Promotions/CompanyPromotionBoard.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJvbW90aW9uc1xDb21wYW55UHJvbW90aW9uQm9hcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Promotions/EligibleForPromotionListing.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJvbW90aW9uc1xFbGlnaWJsZUZvclByb21vdGlvbkxpc3RpbmcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Promotions/MynockCommandPromotionBoard.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJvbW90aW9uc1xNeW5vY2tDb21tYW5kUHJvbW90aW9uQm9hcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Promotions/MynockSectionPromotionBoard.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJvbW90aW9uc1xNeW5vY2tTZWN0aW9uUHJvbW90aW9uQm9hcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Promotions/PendingPromotionsListing.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJvbW90aW9uc1xQZW5kaW5nUHJvbW90aW9uc0xpc3RpbmcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Promotions/PlatoonPromotionBoard.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJvbW90aW9uc1xQbGF0b29uUHJvbW90aW9uQm9hcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Promotions/RazorPromotionBoard.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJvbW90aW9uc1xSYXpvclByb21vdGlvbkJvYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Promotions/SquadPromotionBoard.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJvbW90aW9uc1xTcXVhZFByb21vdGlvbkJvYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Promotions/WardenPromotionBoard.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJvbW90aW9uc1xXYXJkZW5Qcm9tb3Rpb25Cb2FyZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Roster/ActiveRosterDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = Um9zdGVyXEFjdGl2ZVJvc3RlckRpc3BsYXkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Roster/FullRosterDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = Um9zdGVyXEZ1bGxSb3N0ZXJEaXNwbGF5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Roster/InactiveReservesDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = Um9zdGVyXEluYWN0aXZlUmVzZXJ2ZXNEaXNwbGF5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Roster/OrbatDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = Um9zdGVyXE9yYmF0RGlzcGxheS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Roster/Placed/CompanyDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = Um9zdGVyXFBsYWNlZFxDb21wYW55RGlzcGxheS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Roster/Placed/CompanyStaff.razor]
+build_metadata.AdditionalFiles.TargetPath = Um9zdGVyXFBsYWNlZFxDb21wYW55U3RhZmYucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Roster/Placed/HailstormDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = Um9zdGVyXFBsYWNlZFxIYWlsc3Rvcm1EaXNwbGF5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Roster/Placed/MynockDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = Um9zdGVyXFBsYWNlZFxNeW5vY2tEaXNwbGF5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Roster/Placed/MynockSectionDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = Um9zdGVyXFBsYWNlZFxNeW5vY2tTZWN0aW9uRGlzcGxheS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Roster/Placed/PlatoonDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = Um9zdGVyXFBsYWNlZFxQbGF0b29uRGlzcGxheS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Roster/Placed/PlatoonStaff.razor]
+build_metadata.AdditionalFiles.TargetPath = Um9zdGVyXFBsYWNlZFxQbGF0b29uU3RhZmYucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Roster/Placed/RazorDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = Um9zdGVyXFBsYWNlZFxSYXpvckRpc3BsYXkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Roster/Placed/RazorFlightDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = Um9zdGVyXFBsYWNlZFxSYXpvckZsaWdodERpc3BsYXkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Roster/Placed/RazorFlightSectionDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = Um9zdGVyXFBsYWNlZFxSYXpvckZsaWdodFNlY3Rpb25EaXNwbGF5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Roster/Placed/SquadDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = Um9zdGVyXFBsYWNlZFxTcXVhZERpc3BsYXkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Roster/Placed/WardenDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = Um9zdGVyXFBsYWNlZFxXYXJkZW5EaXNwbGF5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Roster/Recruits/RecruitListingRow.razor]
+build_metadata.AdditionalFiles.TargetPath = Um9zdGVyXFJlY3J1aXRzXFJlY3J1aXRMaXN0aW5nUm93LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Roster/RosterListing.razor]
+build_metadata.AdditionalFiles.TargetPath = Um9zdGVyXFJvc3Rlckxpc3RpbmcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Roster/RosterListingRow.razor]
+build_metadata.AdditionalFiles.TargetPath = Um9zdGVyXFJvc3Rlckxpc3RpbmdSb3cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Roster/ZetaOrbatDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = Um9zdGVyXFpldGFPcmJhdERpc3BsYXkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Roster/ZetaRosterDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = Um9zdGVyXFpldGFSb3N0ZXJEaXNwbGF5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Roster/Zeta/ZetaCompanyStaff.razor]
+build_metadata.AdditionalFiles.TargetPath = Um9zdGVyXFpldGFcWmV0YUNvbXBhbnlTdGFmZi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Roster/Zeta/ZetaDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = Um9zdGVyXFpldGFcWmV0YURpc3BsYXkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Roster/Zeta/ZetaSectionDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = Um9zdGVyXFpldGFcWmV0YVNlY3Rpb25EaXNwbGF5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Roster/Zeta/ZetaSquadDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = Um9zdGVyXFpldGFcWmV0YVNxdWFkRGlzcGxheS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Roster/Zeta/ZetaUtcSectionDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = Um9zdGVyXFpldGFcWmV0YVV0Y1NlY3Rpb25EaXNwbGF5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Roster/Zeta/ZetaUtcSquadDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = Um9zdGVyXFpldGFcWmV0YVV0Y1NxdWFkRGlzcGxheS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Data/Auth/DynamicAuthorizeViewTools.razor]
+build_metadata.AdditionalFiles.TargetPath = RGF0YVxBdXRoXER5bmFtaWNBdXRob3JpemVWaWV3VG9vbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-5nuf8hg0ac
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Data/PublicTrooperProfile.razor]
+build_metadata.AdditionalFiles.TargetPath = RGF0YVxQdWJsaWNUcm9vcGVyUHJvZmlsZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-gcjb5k3mas
+
+[e:/Development/FiveOhFirstDataCore/FiveOhFirstDataCore.Pages/Roster/Recruits/RecruitListing.razor]
+build_metadata.AdditionalFiles.TargetPath = Um9zdGVyXFJlY3J1aXRzXFJlY3J1aXRMaXN0aW5nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-1k9lpon21x

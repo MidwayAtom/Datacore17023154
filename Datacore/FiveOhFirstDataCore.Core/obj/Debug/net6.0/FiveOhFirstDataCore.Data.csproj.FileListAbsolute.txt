@@ -1,0 +1,12 @@
+E:\Development\FiveOhFirstDataCore\FiveOhFirstDataCore.Core\bin\Debug\net6.0\FiveOhFirstDataCore.Data.deps.json
+E:\Development\FiveOhFirstDataCore\FiveOhFirstDataCore.Core\bin\Debug\net6.0\FiveOhFirstDataCore.Data.dll
+E:\Development\FiveOhFirstDataCore\FiveOhFirstDataCore.Core\bin\Debug\net6.0\FiveOhFirstDataCore.Data.pdb
+E:\Development\FiveOhFirstDataCore\FiveOhFirstDataCore.Core\obj\Debug\net6.0\FiveOhFirstDataCore.Data.csproj.AssemblyReference.cache
+E:\Development\FiveOhFirstDataCore\FiveOhFirstDataCore.Core\obj\Debug\net6.0\FiveOhFirstDataCore.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\FiveOhFirstDataCore\FiveOhFirstDataCore.Core\obj\Debug\net6.0\FiveOhFirstDataCore.Data.AssemblyInfoInputs.cache
+E:\Development\FiveOhFirstDataCore\FiveOhFirstDataCore.Core\obj\Debug\net6.0\FiveOhFirstDataCore.Data.AssemblyInfo.cs
+E:\Development\FiveOhFirstDataCore\FiveOhFirstDataCore.Core\obj\Debug\net6.0\FiveOhFirstDataCore.Data.csproj.CoreCompileInputs.cache
+E:\Development\FiveOhFirstDataCore\FiveOhFirstDataCore.Core\obj\Debug\net6.0\FiveOhFirstDataCore.Data.dll
+E:\Development\FiveOhFirstDataCore\FiveOhFirstDataCore.Core\obj\Debug\net6.0\refint\FiveOhFirstDataCore.Data.dll
+E:\Development\FiveOhFirstDataCore\FiveOhFirstDataCore.Core\obj\Debug\net6.0\FiveOhFirstDataCore.Data.pdb
+E:\Development\FiveOhFirstDataCore\FiveOhFirstDataCore.Core\obj\Debug\net6.0\ref\FiveOhFirstDataCore.Data.dll
